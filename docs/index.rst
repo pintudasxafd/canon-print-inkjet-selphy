@@ -8,7 +8,7 @@ How to Download Canon Print Inkjet Selphy Driver?
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-Canon has long been a leader in imaging technology, known for its innovative range of cameras, scanners, and printers. Among its printer offerings, Canon’s Inkjet and SELPHY lines are particularly popular for home and professional users alike. These devices provide high-resolution printing, wireless connectivity, and portability in compact, efficient designs. The Canon PRINT Inkjet/SELPHY app enhances the functionality of these printers by enabling users to print and scan wirelessly from mobile devices. 
+Canon has long been a leader in imaging technology known for its innovative range of cameras, scanners, and printers. Among its printer offerings, Canon’s Inkjet and SELPHY lines are particularly popular for home and professional users alike. These devices provide high-resolution printing, wireless connectivity, and portability in compact, efficient designs. The Canon PRINT Inkjet/SELPHY app enhances the functionality of these printers by enabling users to print and scan wirelessly from mobile devices. 
 
 .. image:: click-download.png
    :alt: My Project Logo
